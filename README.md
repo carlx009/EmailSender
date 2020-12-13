@@ -8,9 +8,3 @@ session. It allows client to send their email messages to your email address.
 1. XAMPP 
 2. Visual Studio Code (Any text Editor)
 
-### Usage
-1. Clone or Download the project. 
-2. Copy and Paste the project files on C:\xampp\htdocs
-3. Open web browser and type localhost/email/contact.php
- 
-
