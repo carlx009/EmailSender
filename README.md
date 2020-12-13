@@ -18,5 +18,7 @@ session. It allows client to send their email messages to your email address.
 
 ### Issues or Problems 
 Problem 1 - "localhost" port 25, verify your "SMTP" and "smtp_port" setting in php.ini or use ini_set() in C:\xampp\htdocs\email\contact.php on line 14
+
 Article Solution -  https://stackoverflow.com/questions/15965376/how-to-configure-xampp-to-send-mail-from-localhost
+
 Video Solution - https://youtu.be/9W644cyDyNM
